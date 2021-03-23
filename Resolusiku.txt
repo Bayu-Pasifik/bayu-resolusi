@@ -2,3 +2,6 @@ Resolusi ku kedepan nya
 -. Belajar HTLM
 -. Belajar CSS
 -. Belajar Javascript
+-. Belajar php
+-. Belajar Mysql
+
