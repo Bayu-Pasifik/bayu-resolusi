@@ -4,7 +4,10 @@ Resolusi ku kedepan nya
     . belajar laravel
 -. Belajar Mysql
 -. Belajar Bootstrap
+    . belajar SASS
 -. Belajar codeigniter
+    . CI4
 -. Belajar laravel
 -. Belajar Dart
 -. Belajar Flutter
+-. belajar android studio
