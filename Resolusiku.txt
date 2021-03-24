@@ -6,8 +6,12 @@ Resolusi ku kedepan nya
 -. Belajar Bootstrap
     . belajar SASS
 -. Belajar codeigniter
-    . CI4
+-. Belajar Dart
+-. Belajar Flutter
+-. belajar python
+-. belajar django
 -. Belajar laravel
 -. Belajar Dart
 -. Belajar Flutter
 -. belajar android studio
+
