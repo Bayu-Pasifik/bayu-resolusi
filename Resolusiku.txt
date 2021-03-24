@@ -1,6 +1,7 @@
 Resolusi ku kedepan nya
 -. Belajar Javascript
 -. Belajar php
+    . belajar laravel
 -. Belajar Mysql
 -. Belajar Bootstrap
 -. Belajar codeigniter
