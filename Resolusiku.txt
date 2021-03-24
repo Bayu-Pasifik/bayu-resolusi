@@ -4,6 +4,7 @@ Resolusi ku kedepan nya
 -. Belajar Mysql
 -. Belajar Bootstrap
 -. Belajar codeigniter
--. Belajar laravel
 -. Belajar Dart
 -. Belajar Flutter
+-. belajar python
+-. belajar django
