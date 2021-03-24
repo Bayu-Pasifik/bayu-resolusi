@@ -1,10 +1,17 @@
 Resolusi ku kedepan nya
 -. Belajar Javascript
 -. Belajar php
+    . belajar laravel
 -. Belajar Mysql
 -. Belajar Bootstrap
+    . belajar SASS
 -. Belajar codeigniter
 -. Belajar Dart
 -. Belajar Flutter
 -. belajar python
 -. belajar django
+-. Belajar laravel
+-. Belajar Dart
+-. Belajar Flutter
+-. belajar android studio
+
